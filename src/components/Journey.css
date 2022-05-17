@@ -1,0 +1,37 @@
+.journey-container1{
+    background-image: 
+    url(
+  "../assets/images/jrnyback.jpg");
+  background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat; 
+}
+.journey-container2{
+   background-color: #060606;
+   padding: 0 5% 5%;
+}
+.page-title{
+    font-weight: 300;
+    font-size: 60px;
+    padding: 10%;
+    color: #ffffff;
+}
+.spec-title {
+    font-weight: 300;
+    font-size: 22px;
+    color: #ffffff;
+}
+.spec-desc{
+    font-weight: 300;
+    font-size: 10px;
+    color: #ffffff;
+}
+.vline {
+    border-left: 1px solid #fff;
+    height: 100px;
+  }
+  .section{
+      margin-top: 2%;
+  }
+
+  .navbar-nav .active { text-decoration: underline; }
