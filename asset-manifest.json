@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ringover/static/css/main.2f4f7d3f.css",
+    "main.js": "/ringover/static/js/main.6fcdf68f.js",
+    "static/media/background.png": "/ringover/static/media/background.43cd7d04dcbc0cf582c0.png",
+    "static/media/shoe4.jpeg": "/ringover/static/media/shoe4.68c4cbfa514ed6818540.jpeg",
+    "static/media/shoe3.jpg": "/ringover/static/media/shoe3.6d5ff5384990d05d4476.jpg",
+    "static/media/shoe1.jpg": "/ringover/static/media/shoe1.9a976b4014fdf103777f.jpg",
+    "static/media/jrnyback.jpg": "/ringover/static/media/jrnyback.278106461f8f045a118c.jpg",
+    "static/media/Iker.jpeg": "/ringover/static/media/Iker.29c41f6b8593200bf3af.jpeg",
+    "static/media/medium.png": "/ringover/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/christiano.jpg": "/ringover/static/media/christiano.85818b5adf5cbf29b0ae.jpg",
+    "static/media/tonikroos.jpg": "/ringover/static/media/tonikroos.5e06b48c06c8cb2b1a2c.jpg",
+    "static/media/insta.svg": "/ringover/static/media/insta.47862a9f317959c3d5fc29700d0ca6af.svg",
+    "static/media/twitter.svg": "/ringover/static/media/twitter.db8bd1d176685f75ed42db090f4d126c.svg",
+    "static/media/facebook.svg": "/ringover/static/media/facebook.6b4f7afe6ec5cf535062865a07aba10b.svg",
+    "index.html": "/ringover/index.html",
+    "main.2f4f7d3f.css.map": "/ringover/static/css/main.2f4f7d3f.css.map",
+    "main.6fcdf68f.js.map": "/ringover/static/js/main.6fcdf68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4f7d3f.css",
+    "static/js/main.6fcdf68f.js"
+  ]
+}
